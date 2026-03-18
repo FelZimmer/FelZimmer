@@ -1,5 +1,13 @@
 ## Hi there 👋
+<h1 >Olá, eu sou o Felipe</h1>
 
+<h3 a>
+  Bem vindo(a) ao meu canto da internet!! 💻
+</h3>
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelZimmer&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true" height="200"/>
+</p>
 <!--
 **FelZimmer/FelZimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
