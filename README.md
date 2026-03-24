@@ -1,4 +1,4 @@
-# 👩🏻‍💻<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c4357f92-6bc6-4bf8-a87f-34307762732f" />
+# 👩🏻‍💻<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c4357f92-6bc6-4bf8-a87f-34307762732f" />
  Felipe Zimmermann
 
 **`Desenvolvedor FullStack/Backend`**
