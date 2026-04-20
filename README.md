@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL;loading...;Cybersecurity&background=000000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python%23+%7C+JS+%7C+C;loading...;Software Engineering&background=000000"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohane-massão)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llohh_kkjs)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohane.mdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-oliveira-zimmermann)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fozimmer@gmail.com)
 
 <div align="center">
 
@@ -67,8 +66,8 @@ Meu objetivo é crescer na área de tecnologia, adquirindo experiência prática
 
 <p align="center">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lohjs-0&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
+  <img src="https://streak-stats.demolab.com?user=FelZimmer&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelZimmer-0&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="200" />
 </div>
 </p>
 
