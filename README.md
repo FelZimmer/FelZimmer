@@ -1,22 +1,19 @@
 
 <div align="center">
-  <p align="center">
-  <img src="Banner github.png" alt="Banner" width="100%" height = "60%">
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python%23+%7C+JS+%7C+C;loading...;Software Engineering&background=000000"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python|JS|C;Loading...;Software+Engineering&background=000000"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-oliveira-zimmermann)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-zimmermann)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fozimmer@gmail.com)
 
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=lohjs-0&style=for-the-badge"/>
 <img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge"/>
 <img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge"/>
-</div>
+
 </div>
 
 ---
