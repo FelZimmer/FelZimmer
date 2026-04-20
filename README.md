@@ -17,7 +17,7 @@
 ---
 
 <p align="left">
-  <img src="5905ba80-1cfc-11f1-b826-57be7c88f6db.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="pexels-photo-12901502.webp" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p>Full Stack Developer in Training</p>
 
