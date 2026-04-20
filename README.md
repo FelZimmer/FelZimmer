@@ -58,9 +58,9 @@ Meu objetivo é crescer na área de tecnologia, adquirindo experiência prática
 </div>
 
 ---
-### [TotSimple](https://github.com/FelZimmer/totsimple)
-App Node.js com recomendações personalizadas de cuidados com plantas, com tecnologia de IA, e que promove a sustentabilidade em sua casa ou ambiente empresarial.<br/>
-`React.js` `HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
+### [TotSimple](https://github.com/FelZimmer/totsimple)🖥️
+TotSimple, um sistema de totens de autoatendimento voltado para drogarias, com o objetivo de otimizar o fluxo de atendimento, reduzir o tempo de espera e proporcionar maior autonomia ao cliente.<br/>
+`React.js` `HTML` `CSS` 
 
 
 <div align="center">
