@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-zimmermann)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fozimmer@gmail.com)
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=lohjs-0&style=for-the-badge"/>
 <img src="https://img.shields.io/github/commit-activity/y/lohjs-0/lohjs-0?style=for-the-badge"/>
 <img src="https://img.shields.io/github/repo-size/lohjs-0/lohjs-0?style=for-the-badge"/>
