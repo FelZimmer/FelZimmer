@@ -22,6 +22,7 @@
   <p>Full Stack Developer in Training</p>
 
 Olá! Me chamo Felipe de Oliveira Zimmermann, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática pela FIAP School.
+
 Atualmente, curso Engenharia de Software na FIAP e sou apaixonado por tecnologia. Estou em constante evolução, aprofundando meus conhecimentos por meio de estudos avançados e desenvolvimento de projetos pessoais.
 Meu objetivo é crescer na área de tecnologia, adquirindo experiência prática e ampliando minhas habilidades para construir uma carreira sólida e alcançar grandes conquistas profissionais.
 
