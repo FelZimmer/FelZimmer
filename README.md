@@ -27,10 +27,10 @@
   <div>
   <p>Full Stack Developer in Training</p>
 
-  Currently, I am focusing my studies on <b>C# and ASP.NET Core</b>, as well as <b>SQL databases</b>, 
-  and I have been applying this knowledge to personal projects, 
-  developing applications that involve back-end, databases, and API 
-  consumption on the front-end.
+Olá! Me chamo Felipe de Oliveira Zimmermann, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática pela FIAP School.
+Atualmente, curso Engenharia de Software na FIAP e sou apaixonado por tecnologia. Estou em constante evolução, aprofundando meus conhecimentos por meio de estudos avançados e desenvolvimento de projetos pessoais.
+Meu objetivo é crescer na área de tecnologia, adquirindo experiência prática e ampliando minhas habilidades para construir uma carreira sólida e alcançar grandes conquistas profissionais.
+
   <br><br>
   </div>
 </p>
@@ -45,17 +45,15 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-black?style=for-the-badge&logo=arduino&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-black?style=for-the-badge&logo=.net&logoColor=white)
+
 
 </div>
 
