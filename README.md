@@ -58,13 +58,9 @@ Meu objetivo é crescer na área de tecnologia, adquirindo experiência prática
 </div>
 
 ---
-### [EcoLeaf 🌿](https://github.com/vbzt/EcoLeaf)
+### [TotSimple](https://github.com/FelZimmer/totsimple)
 App Node.js com recomendações personalizadas de cuidados com plantas, com tecnologia de IA, e que promove a sustentabilidade em sua casa ou ambiente empresarial.<br/>
 `React.js` `HTML` `CSS` `Node.js` `MongoDB` `Gemini API`
-
-### [BlueMind💙🧠](https://github.com/Guilherme-Rigobello/bluemind)
-Plataforma pensada para ajudar adolescentes a compreender e expressar suas emoções com mais clareza, confiança e leveza através de conteúdos educativos e ferramentas interativas<br/>
-`React.js` `HTML` `CSS` `Firebase` `Gemini API`
 
 
 <div align="center">
