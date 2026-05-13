@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python|JS|C;Loading...;Software+Engineering&background=000000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Python|JS|C;Loading...;Software+Engineering&background=000000"/>
 
 <br>
 
@@ -19,7 +19,7 @@
 <p align="left">
   <img src="pexels-photo-12901502.webp" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <p>Full Stack Developer in Training</p>
+  <p>Backend Software Engineer in Training</p>
 
 Olá! Me chamo Felipe de Oliveira Zimmermann, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática pela FIAP School.
 
