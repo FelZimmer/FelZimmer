@@ -63,6 +63,10 @@ Meu objetivo é crescer na área de tecnologia, adquirindo experiência prática
 TotSimple, um sistema de totens de autoatendimento voltado para drogarias, com o objetivo de otimizar o fluxo de atendimento, reduzir o tempo de espera e proporcionar maior autonomia ao cliente.<br/>
 `React.js` `HTML` `CSS` 
 
+### [Auron]([https://github.com/FelZimmer/totsimple](https://github.com/FelZimmer/Auron))🌞
+Auron, monitoramento e proteção contra anomalias solares para data centers: simulação de impacto, alertas em tempo real e relatórios de ROI. Python + Streamlit.<br/>
+`Python` `Streamlit ` `Plotly` 
+
 
 <div align="center">
 <h3>Statistics</h3>
