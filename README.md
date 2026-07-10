@@ -64,7 +64,7 @@ TotSimple, um sistema de totens de autoatendimento voltado para drogarias, com o
 `React.js` `HTML` `CSS` 
 
 ### [Auron](https://github.com/FelZimmer/Auron)🌞
-Auron, monitoramento e proteção contra anomalias solares para data centers: simulação de impacto, alertas em tempo real e relatórios de ROI. Python + Streamlit.<br/>
+Auron, monitoramento e proteção contra anomalias solares para data centers: simulação de impacto, alertas em tempo real, relatórios de ROI e dashboard interativo. <br/>
 `Python` `Streamlit ` `Plotly` 
 
 
